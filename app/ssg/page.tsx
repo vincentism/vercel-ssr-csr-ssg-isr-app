@@ -28,7 +28,7 @@ export default function SSGPage() {
         <div className="mb-6">
           <div className="flex items-center space-x-3 mb-2">
             <Zap className="h-8 w-8 text-green-600" />
-            <h1 className="text-3xl font-bold text-gray-900">静态站点生成 (SSG)</h1>
+            <h1 className="text-3xl font-bold text-gray-900">静态站点生成 (SSG) - 测试内容变化后，首次访问时缓存设置</h1>
             <Badge variant="outline" className="bg-green-50 text-green-700 border-green-200">
               Static Site Generation
             </Badge>
